@@ -4,15 +4,13 @@ Versão em Português:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Engenheiro de software
-- 💼 Trabalhando como {stack em que você trabalha} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando como Desenvolvedor de Software Senior na Dimensa (Totvs + B3).
 
 English Version:
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Software engineer
-- 💼 Working as {stack you work with} at {company}.
-- 🌱 Learning more about {technologies you are learning}.
+- 💼 Working as Senior software developer at Dimensa (Totvs + B3).
 
 ## Minhas Skills
 
